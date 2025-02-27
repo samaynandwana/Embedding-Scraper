@@ -1,0 +1,22 @@
+{
+    "Drug": "Cocaine",
+    "Wikipedia Summary": "A 2019 study estimated that cocaine use disorder caused around 12,000",
+    "News Articles": [
+        {
+            "url": "https://www.unodc.org/unodc/en/data-and-analysis/the-cocaine-market.html",
+            "summary": "References. UNODC World Drug Report 2020, pp. 63"
+        },
+        {
+            "url": "https://www.interpol.int/en/Crimes/Drug-trafficking",
+            "summary": ". Law enforcement agencies around the world need to share information and coordinate efforts to track"
+        },
+        {
+            "url": "https://www.ussc.gov/sites/default/files/pdf/research-and-publications/quick-facts/Powder_Cocaine_FY20.pdf",
+            "summary": "Not enough relevant content."
+        },
+        {
+            "url": "https://www.ussc.gov/sites/default/files/pdf/research-and-publications/quick-facts/Crack_Cocaine_FY20.pdf",
+            "summary": "Not enough relevant content."
+        }
+    ]
+}
